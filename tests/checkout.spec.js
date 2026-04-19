@@ -2,10 +2,10 @@
 const { test, expect } = require('@playwright/test');
 
 // Import Page Object Model class for Register page actions
-const { RegisterPage } = require('../pages/registerPage');
+const { RegisterPage } = require('../pages/RegisterPage');
 
 // Import Page Object Model class for Checkout page actions
-const { CheckoutPage } = require('../pages/checkoutPage');
+const { CheckoutPage } = require('../pages/CheckoutPage');
 
 // Import function to generate random user test data
 const { generateUser } = require('../utils/userData');

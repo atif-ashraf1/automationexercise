@@ -2,7 +2,7 @@
 const { test, expect } = require('@playwright/test');
 
 // Import LoginPage class (Page Object Model for login actions)
-const { LoginPage } = require('../pages/loginPage');
+const { LoginPage } = require('../pages/LoginPage');
 
 // Import helper function to get test user data (email & password)
 const { getUser } = require('../utils/helper');
