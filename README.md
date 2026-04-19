@@ -27,10 +27,6 @@ These journeys were chosen because they cover the most important parts of the ap
 * They help validate the full shopping experience in one complete path.
 * They are more stable and suitable for automation compared to smaller or edge-case scenarios.
 
-### Not included in this scope
-
-The remaining journeys, like removing items from the cart or other minor edge cases, are not included in this suite. They can be added later as the framework grows.
-
 ---
 
 ## Tech Stack
